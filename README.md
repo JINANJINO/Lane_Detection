@@ -55,7 +55,7 @@ $$
 You can try it out in the ```homograpy.py``` file in my repository.
 
 - **Original Image**
-<img width="1242" height="375" alt="image" src="https://github.com/user-attachments/assets/49f74831-2420-434d-bf88-6783417b391b" />
+- <img width="1242" height="375" alt="image" src="https://github.com/user-attachments/assets/49f74831-2420-434d-bf88-6783417b391b" />
 
 - **BEV(Bird Eyes View)**
 <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/d08b90aa-0bbb-4ef4-8303-d25733b72c2d" />
